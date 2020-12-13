@@ -24,7 +24,7 @@ The Auschwitz concentration camp (German: Konzentrationslager Auschwitz, Polish:
 
 # Victory
 
-![Reichstag](img/1945/Reichstag_flag_original.jpg)
+![Reichstag](victory/img/Reichstag_flag_original.jpg)
 
 Raising a Flag over the Reichstag (Russian: Знамя Победы над рейхстагом, tr. Znamya Pobedy nad Reykhstagom) is an iconic World War II photograph, taken during the Battle of Berlin on 2 May 1945. The photograph was reprinted in thousands of publications and came to be regarded around the world as one of the most significant and recognizable images of World War II. Owing to the secrecy of Soviet media, the identities of the men in the picture were often disputed, as was that of the photographer, Yevgeny Khaldei. It became a symbol of the Soviet victory over Nazi Germany.
 
